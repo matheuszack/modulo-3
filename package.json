@@ -1,8 +1,8 @@
 {
-  "name": "Projeto-Json",
+  "name": "modulo-3",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/BryanSimoes/Projeto-Json.git",
+  "repository": "https://github.com/matheuszack/modulo-3",
   "author": "Matheus <matheusfreire097@gmail.com>",
   "license": "MIT"
 }

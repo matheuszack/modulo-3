@@ -26,7 +26,7 @@
         },
         {
             "id": 4,
-            "fil_nome":"West Shopping",
+            "cine_nome":"West Shopping",
              "localização": "Estr. do Mendanha, 555 - Campo Grande, Rio de Janeiro - RJ",
              "horario dos filmes": "a partir de 14h",
              "assentos": "38 comuns, 25 vips, 28 preferencias",
@@ -36,8 +36,8 @@
 
     "Filme":[
         {
-            "id": 3,
-            "fil_nome":"fil 3",
+            "id": 1,
+            "fil_nome":"fil 1",
             "nome": "Pantera Negra: Wakanda Para Sempre",
             "genero": " Ação/Aventura",
             "direção":"Ryan Coogler",
@@ -64,75 +64,75 @@
                 {
                     "id": 4,
                     "fil_nome":"fil 4",
-                    "nome": "Minions 2: A Origem de Gru",
-                    "genero": "Ação,Aventura,Familiar,Coloring Cartoon,Ficção Científica,Animação,Comédia",
-                    "produção":"Chris Meledandri,Janet Healy,Chris Renaud",
-                    "ano de lançamento": 2022
+                    "nome": "mulher maravilha",
+                    "genero": "Ação,Aventura,Familiar,Ficção Científica,Comédia, super-héroi",
+                    "produção":"Geoff Johns, Jon berg, Charles Rover, Deborah Snyder, Zack Snyder, Allan Heinberg",
+                    "ano de lançamento": 2017
                     }
     ],
     "produtos": [
         {
             "id": 1,
              "Pro_nome": "Coca-Cola",
-             "valor": "12 reias",
+             "valor": "10 reais",
              "ml": "1L"
         },
             {
                 "id": 2,
                  "Pro_nome": "Pipoca",
-                 "valor": "8 Reias",
-                 "quantidade": "200g"
+                 "valor": "7 Reais",
+                 "quantidade": "350g"
             },
             {
                 "id": 3,
-                 "Pro_nome": "Promoção",
-                 "combo":"Coca-Cola,Pipoca,Brinde",
-                 "valor": "45 Reias",
-                 "brinde": "1 Colar"
+                 "Pro_nome": "Promoção:Básico",
+                 "combo":"Coca-Cola,Pipoca",
+                 "valor": "15 Reais"
+                
             },
             {
                 "id": 4,
                  "Pro_nome": "Mega-Combo",
-                 "combo":"Action-Figure,Coca-Cola-Pipoca,Ingresso,Camisa,Brinde",
-                 "valor": "320 Reias",
-                 "brinde": "Item Misterios"
+                 "combo":"Action-Figure,Coca-Cola, Pipoca,Ingresso,Camisa customizada,Brinde",
+                 "valor": "400 Reais",
+                 "brinde": "Item Secreto"
             }
     ],
-    "fanshop":[
+    "Shopping":[
         {
             "id": 1,
-             "fan_nome": "produtos feitos de fã para fã",
-             "combos": "Combo Camiseta Pré - Estreia Adão Negro + 5 Cards Sociedade da Justiça",
-             "brinde do combo": "Caneca do Adão Negro",
+             "fan_nome": "produtos imperdiveis",
+             "combos": "Combo: Camiseta Pré - Estreia Adão Negro",
+             "brinde do combo": "Caneca do Adão Negro, poster",
              "ingresso": "incluso no combo",
-             "valor":"R$ 99,90 reias"
+             "valor":"R$ 110 reais"
         },
         {
             "id": 2,
-             "fan_nome": "produtos feitos de fã para fã",
-             "camisa": "camisa do Mortal Kombat",
-             "promoção": "2 camisa do Mortal Kombat por 80% do preço",
-             "cartão": "parcelamento em até 6x",
-             "valor unico ":"R$ 60,00 reias",
-             "valor com desconto ":"R$ 96,00 reias"
+             "fan_nome": "produtos imperdiveis",
+             "camisa": "camisa do Pantera Negra: Wakanda Para Sempre",
+             "promoção": "2 camisa do pantera nebra, feminino e masculino por 80% do preço",
+             "cartão": "parcelamento em até 2x",
+             "valor":"R$ 150,00 reais"
+            
         }, 
         {
             "id": 3,
-             "fan_nome": "produtos feitos de fã para fã",
-             "camisa": "camisa dos Minions",
-             "promoção": "2 camisa do Minions por 60% do preço",
-             "cartão": "parcelamento em até 6x",
-             "valor unico ":"R$ 69,90 reias",
-             "valor com desconto ":"R$ 83,88 reias"
+             "fan_nome": "produtos imperdiveis",
+             "camisa": "camisa do Corra, Querida, Corra",
+             "promoção": "2 camisa do corra, querida, corra por 80% do preço",
+             "cartão": "parcelamento em até 2x",
+             "valor unico ":"R$ 110 reais"
+            
         },
         {
             "id": 4,
-             "fan_nome": "produtos feitos de fã para fã",
-             "camisa": "camisa do Jurassic Park",
-             "promoção": "2 camisa do minions por 70% do preço",
-             "cartão": "parcelamento em até 6x",
-             "valor unico ":"R$ 79,90 reias",
-             "valor com desconto ":"R$ 111,86 reias"
+             "fan_nome": "produtos imperdiveis",
+             "camisa": "camisa da mulher maravilha, poster, caneca e boné",
+             "promoção": "3 camisa, 1 poster, 1 caneca, e 1 boné da mulher maravilha por 80% do preço",
+             "cartão": "parcelamento em até 2x",
+             "valor unico ":"R$ 370 reais"
+             
         }
     ]
     
